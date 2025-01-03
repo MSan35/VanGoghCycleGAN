@@ -11,6 +11,11 @@ This project implements a CycleGAN model for unpaired image-to-image translation
 ## Example Outputs
 examples
 
+## Dataset
+
+- Van Gogh landscape paintings selected from https://www.kaggle.com/datasets/ipythonx/van-gogh-paintings
+- Real-life landscape images selected from https://www.kaggle.com/datasets/arnaud58/landscape-pictures
+
 ## Requirements
 
 - Python 3.10 or later
