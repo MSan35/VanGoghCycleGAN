@@ -1,6 +1,6 @@
 # VanGoghCycleGAN
 
-This project implements a CycleGAN model for unpaired image-to-image translation. The goal is to transform real landscape images into Van Gogh-inspired landscape paintings.
+This project implements a cycle generative adversarial network model for unpaired image-to-image translation. The goal is to transform real landscape images into Van Gogh-inspired landscape paintings.
 
 ## Features
 
