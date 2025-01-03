@@ -15,6 +15,7 @@ examples
 
 - Van Gogh landscape paintings selected from https://www.kaggle.com/datasets/ipythonx/van-gogh-paintings
 - Real-life landscape images selected from https://www.kaggle.com/datasets/arnaud58/landscape-pictures
+- 210 training images and 70 test images for each
 
 ## Requirements
 
